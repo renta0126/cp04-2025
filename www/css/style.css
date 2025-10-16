@@ -2,6 +2,9 @@
 body{
     background-color: skyblue;
 }
+button{
+    color: blue;
+}
     #minuteStr {
         color: #ff0000;
         font-size: 20px;
@@ -44,16 +47,19 @@ body{
     }
     
     #btnA {
+        
         font-size: 20px;
         position:absolute; top:380px; left:2%; width:43%; height:60px; 
     }
     
     #btnB {
+        
         font-size: 20px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
+        
         font-size: 10px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
